@@ -131,3 +131,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+asgn-02-samfleet/
+asgn-03-samfleet/
+Class-Notes/
